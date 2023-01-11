@@ -72,6 +72,11 @@ export default {
         },
         {
           name: "s4",
+          title: "Session-4",
+          type: "boolean",
+        },
+        {
+          name: "s5",
           title: "Session-5",
           type: "boolean",
         },
